@@ -1,2 +1,2 @@
 # portself
-My first portfolio will be deployed on the GitHub
+My first portfolio which will be deployed on the GitHub
